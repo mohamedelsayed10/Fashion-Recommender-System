@@ -1,4 +1,6 @@
 # Fashion Recommendation Systems
+![image](https://github.com/user-attachments/assets/e5a875d9-1786-4818-a367-3bb74e947fd2)
+
 
 ## Overview
 Aims to develop three advanced recommendation systems for Twenty Too©, a company specializing in AI-as-a-service solutions for the fashion industry. The fashion industry is rapidly evolving with the integration of artificial intelligence (AI) technologies, enabling businesses to optimize operations, enhance customer experience, and drive sales growth. Offering AI-as-a-service solutions designed to address key challenges in the fashion sector, this project, commissioned by Twenty Too, involves the development of three distinct recommendation systems aimed at improving various aspects of the customer journey and business efficiency.
